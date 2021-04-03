@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Fragment Titles -->
+    <string name="notes">笔记</string>
+    <string name="labels">标签</string>
+    <string name="deleted">删除</string>
+    <string name="archived">存档</string>
+    <string name="settings">设置</string>
+
+    <!-- Menu Options -->
+    <string name="share">分享</string>
+    <string name="search">搜索</string>
+    <string name="delete">删除</string>
+    <string name="restore">恢复</string>
+    <string name="archive">存档</string>
+    <string name="unarchive">取消存档</string>
+    <string name="delete_forever">永久删除</string>
+
+    <!-- Pinning -->
+    <string name="pin">置顶</string>
+    <string name="unpin">取消置顶</string>
+    <string name="pinned">已置顶</string>
+
+    <!-- Chooser dialog hints -->
+    <string name="view_note">显示笔记</string>
+    <string name="share_note">分享</string>
+
+    <!-- Dialogs -->
+    <string name="save">保存</string>
+    <string name="edit">编辑</string>
+    <string name="cancel">取消</string>
+    <string name="make_list">创建表单</string>
+    <string name="take_note">创建笔记</string>
+    <string name="add_label">创建标签</string>
+    <string name="export">导出</string>
+    <string name="plain_text">Sima szöveg</string>
+    <string name="save_to_device">Mentés az eszközre</string>
+    <string name="edit_label">Címke szerkesztése</string>
+    <string name="label_exists">A címke már létezik</string>
+    <string name="delete_label">Törölni szeretnéd a címkét?</string>
+    <string name="create_new">Nincsenek címkék. Szeretnél készíteni egyet?</string>
+    <string name="delete_note_forever">Véglegesen törölni szeretné a jegyzetet?</string>
+    <string name="your_notes_associated">A jegyzetek ezzel a címkével nem kerülnek törlésre</string>
+
+    <!-- Lists and Notes -->
+    <string name="note">Jegyzet</string>
+    <string name="item">Elem</string>
+    <string name="date">Dátum</string>
+    <string name="title">Cím</string>
+    <string name="add_item">Elem hozzáadása</string>
+    <string name="one_more_item">még 1 elem</string>
+    <string name="more_items">%1$d több elem</string>
+    <string name="drag_handle">Megfogó nyél</string>
+    <string name="bold">Félkövér</string>
+    <string name="link">Hivatkozás</string>
+    <string name="italic">Dőlt</string>
+    <string name="strikethrough">Áthúzás</string>
+    <string name="clear_formatting">Formázás törlése</string>
+    <string name="monospace">Állandó szélességű</string>
+
+    <!-- Miscellaneous -->
+    <string name="saved_to_device">Elmentve az eszközre</string>
+    <string name="saved_to_notally">Elmentve a Notally -ban</string>
+    <string name="empty_note">Üres jegyzet</string>
+    <string name="empty_list">Üres lista</string>
+    <string name="discarded_empty_note">Elvetett üres jegyzet</string>
+    <string name="discarded_empty_list">Elvetett üres lista</string>
+    <string name="cant_open_link">A hivatkozás nem nyitható meg</string>
+    <string name="something_went_wrong">Valami elromlott. Kérlek próbáld újra</string>
+
+    <!-- Settings Page -->
+    <string name="appearance">Megjelenés</string>
+
+    <string name="view">Nézet</string>
+    <string name="list">Lista</string>
+    <string name="grid">Rács</string>
+
+    <string name="theme">Téma</string>
+    <string name="light">Világos</string>
+    <string name="dark">Sötét</string>
+    <string name="follow_system">Rendszer követése</string>
+
+    <string name="card_type">Kártya típusa</string>
+    <string name="elevated">Lebegő</string>
+    <string name="flat">Lapos</string>
+
+    <string name="content_density">Tartalom sűrűsége</string>
+    <string name="max_items_to_display">Elemek száma egy listában</string>
+    <string name="max_lines_to_display">Sorok száma egy jegyzetben</string>
+
+    <string name="show_date_created">Létrehozási dátum</string>
+
+    <string name="backup">Biztonsági mentés</string>
+    <string name="export_notes_to_a_file">Jegyzetek exportálása fájlba</string>
+    <string name="import_notes_from_a_file">Jegyzetek importálása fájlból</string>
+
+    <string name="about">Névjegy</string>
+    <string name="libraries">Könyvtárak</string>
+    <string name="rate">Értékeld ezt az alkalmazást</string>
+</resources>
