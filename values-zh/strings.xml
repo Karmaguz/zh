@@ -43,58 +43,58 @@
     <string name="your_notes_associated">A jegyzetek ezzel a címkével nem kerülnek törlésre</string>
 
     <!-- Lists and Notes -->
-    <string name="note">Jegyzet</string>
-    <string name="item">Elem</string>
-    <string name="date">Dátum</string>
-    <string name="title">Cím</string>
-    <string name="add_item">Elem hozzáadása</string>
-    <string name="one_more_item">még 1 elem</string>
-    <string name="more_items">%1$d több elem</string>
+    <string name="note">笔记</string>
+    <string name="item">项目</string>
+    <string name="date">日期</string>
+    <string name="title">标题</string>
+    <string name="add_item">添加项目</string>
+    <string name="one_more_item"></string>
+    <string name="more_items">更多项目</string>
     <string name="drag_handle">Megfogó nyél</string>
-    <string name="bold">Félkövér</string>
-    <string name="link">Hivatkozás</string>
-    <string name="italic">Dőlt</string>
+    <string name="bold">加粗</string>
+    <string name="link">链接</string>
+    <string name="italic">斜体</string>
     <string name="strikethrough">Áthúzás</string>
     <string name="clear_formatting">Formázás törlése</string>
     <string name="monospace">Állandó szélességű</string>
 
     <!-- Miscellaneous -->
-    <string name="saved_to_device">Elmentve az eszközre</string>
-    <string name="saved_to_notally">Elmentve a Notally -ban</string>
-    <string name="empty_note">Üres jegyzet</string>
-    <string name="empty_list">Üres lista</string>
+    <string name="saved_to_device">保存到本地设备</string>
+    <string name="saved_to_notally">保存到notally</string>
+    <string name="empty_note">空白笔记</string>
+    <string name="empty_list">空白表单</string>
     <string name="discarded_empty_note">Elvetett üres jegyzet</string>
     <string name="discarded_empty_list">Elvetett üres lista</string>
     <string name="cant_open_link">A hivatkozás nem nyitható meg</string>
     <string name="something_went_wrong">Valami elromlott. Kérlek próbáld újra</string>
 
     <!-- Settings Page -->
-    <string name="appearance">Megjelenés</string>
+    <string name="appearance">选项</string>
 
     <string name="view">Nézet</string>
     <string name="list">Lista</string>
     <string name="grid">Rács</string>
 
-    <string name="theme">Téma</string>
-    <string name="light">Világos</string>
-    <string name="dark">Sötét</string>
-    <string name="follow_system">Rendszer követése</string>
+    <string name="theme">主题</string>
+    <string name="light">亮色</string>
+    <string name="dark">暗色</string>
+    <string name="follow_system">跟随系统</string>
 
-    <string name="card_type">Kártya típusa</string>
-    <string name="elevated">Lebegő</string>
-    <string name="flat">Lapos</string>
+    <string name="card_type">卡片类型</string>
+    <string name="elevated"></string>
+    <string name="flat">扁平</string>
 
     <string name="content_density">Tartalom sűrűsége</string>
-    <string name="max_items_to_display">Elemek száma egy listában</string>
-    <string name="max_lines_to_display">Sorok száma egy jegyzetben</string>
+    <string name="max_items_to_display">显示最多项目</string>
+    <string name="max_lines_to_display">显示最多行数</string>
 
-    <string name="show_date_created">Létrehozási dátum</string>
+    <string name="show_date_created">显示创建时间</string>
 
-    <string name="backup">Biztonsági mentés</string>
-    <string name="export_notes_to_a_file">Jegyzetek exportálása fájlba</string>
-    <string name="import_notes_from_a_file">Jegyzetek importálása fájlból</string>
+    <string name="backup">备份</string>
+    <string name="export_notes_to_a_file">导出笔记</string>
+    <string name="import_notes_from_a_file">导入笔记</string>
 
-    <string name="about">Névjegy</string>
-    <string name="libraries">Könyvtárak</string>
-    <string name="rate">Értékeld ezt az alkalmazást</string>
+    <string name="about">关于</string>
+    <string name="libraries">库链接</string>
+    <string name="rate">评分</string>
 </resources>
